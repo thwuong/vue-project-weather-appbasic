@@ -107,6 +107,8 @@ export default {
   background-image: url("./assets/warm-bg.jpg");
 }
 main {
+  margin:0 auto
+  max-width:800px;
   min-height: 100vh;
   padding: 20px;
   background-image: linear-gradient(
